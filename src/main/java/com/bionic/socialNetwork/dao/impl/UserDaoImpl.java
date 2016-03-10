@@ -19,10 +19,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.ResourceBundle;
 
-/**
- * @author Dmytro Troshchuk, Denis Biyovskiy
- * @version 1.00  14.07.14.
- */
+
 public class UserDaoImpl implements UserDao {
     @Override
     public void insert(User user, Password password) throws Exception {
