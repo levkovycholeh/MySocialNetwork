@@ -10,10 +10,7 @@ import org.hibernate.criterion.Order;
 import org.hibernate.criterion.Restrictions;
 
 import java.util.List;
-/**
- * @author yoalex5, Dmytro Troshchuk
- * @version 1.1 16.07.14
- */
+
 public class GroupPostDaoImpl implements GroupPostDao {
 
     @Override
