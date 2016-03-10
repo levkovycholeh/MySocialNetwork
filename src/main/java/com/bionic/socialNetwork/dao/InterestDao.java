@@ -5,12 +5,7 @@ import com.bionic.socialNetwork.models.User;
 
 import java.util.List;
 
-/**
- * Dao for Interest Entity
- *
- * @author Matvii Mitnitskyi
- * @version 1.00 17.07.14
- */
+
 public interface InterestDao {
     /**
      * Insert Interest Entity to database;
