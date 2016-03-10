@@ -5,12 +5,7 @@ import com.bionic.socialNetwork.models.User;
 
 import java.util.List;
 
-/**
- * Private messages Dao
- *
- * @author Denis Biyovskiy
- * @version 1.00  16.07.2014.
- */
+
 public interface PrivateMessageDao {
     public PrivateMessage selectById(long msgId) throws Exception;
 
