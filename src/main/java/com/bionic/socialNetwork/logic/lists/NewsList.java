@@ -12,12 +12,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * NewsList logic
- *
- * @author Matvey Mitnitskyi
- * @version 1.00 created 23.07.2014.
- */
+
 public class NewsList {
     @JsonIgnore
     private int newsListNumber;
