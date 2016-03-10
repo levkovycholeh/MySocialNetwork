@@ -12,10 +12,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * @author Denis Biyovskiy
- * @version 1.00  21.07.2014.
- */
+
 public class PostsList {
     private Collection<Post> posts;
 
