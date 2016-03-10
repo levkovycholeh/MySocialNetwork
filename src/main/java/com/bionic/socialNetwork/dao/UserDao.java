@@ -7,12 +7,7 @@ import com.bionic.socialNetwork.models.User;
 
 import java.util.List;
 
-/**
- * DAO for User's entity
- *
- * @author Dmytro Troshchuk, Denis Biyovskiy
- * @version 1.00  14.07.14.
- */
+
 public interface UserDao {
     /**
      * Insert user entity to database with password
