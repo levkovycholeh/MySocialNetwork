@@ -13,10 +13,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 import java.util.Collection;
 import java.sql.Date;
 
-/**
- * @author Dmytro Troshchuk
- * @version 1.00  23.07.14.
- */
+
 public class GroupPostList {
     private Collection<GroupPost> groupPosts;
 
