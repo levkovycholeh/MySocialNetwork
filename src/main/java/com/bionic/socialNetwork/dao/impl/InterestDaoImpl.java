@@ -9,11 +9,7 @@ import org.hibernate.Session;
 
 import java.util.List;
 
-/**
- *
- * @author Matvey
- * @version 1.00 on 17.07.2014.
- */
+
 public class InterestDaoImpl implements InterestDao {
     @Override
     public void insert(Interest interest) throws Exception {
