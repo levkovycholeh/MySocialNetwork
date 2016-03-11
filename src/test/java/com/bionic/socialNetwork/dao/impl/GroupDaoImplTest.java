@@ -16,7 +16,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Test Group's DAO
  *
- * @author yoalex5
+ * @author Oleh Levkovych
  * @version 1.0 17.07.14
  */
 public class GroupDaoImplTest {

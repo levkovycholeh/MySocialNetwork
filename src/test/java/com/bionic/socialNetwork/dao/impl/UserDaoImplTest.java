@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
 /**
  * Test user's DAO
  *
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  16.07.14.
  */
 public class UserDaoImplTest {

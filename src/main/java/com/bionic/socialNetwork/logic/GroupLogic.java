@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  23.07.14.
  */
 public class GroupLogic {

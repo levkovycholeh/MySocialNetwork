@@ -11,10 +11,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 
 import java.util.Collection;
 
-/**
- * @author Denis Biyovskiy
- * @version 1.00  23.07.2014.
- */
+
 public class ReceivedMessageList {
     private Collection<PrivateMessage> receivedMessages;
 

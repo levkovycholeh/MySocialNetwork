@@ -26,7 +26,7 @@ import static junit.framework.Assert.assertEquals;
 /**
  * Test GroupPost's DAO
  *
- * @author yoalex5
+ * @author Oleh Levkovych
  * @version 1.0 16.07.14
  */
 public class GroupPostDaoImplTest {

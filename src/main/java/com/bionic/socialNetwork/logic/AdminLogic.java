@@ -12,7 +12,7 @@ import org.apache.logging.log4j.Logger;
 import org.codehaus.jackson.annotate.JsonIgnore;
 
 /**
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  23.07.14.
  */
 public class AdminLogic {

@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * Group entity
  *
- * @author yoalex5
+ * @author Oleh Levkovych
  * @version 1.00 16.07.14
  */
 @Entity

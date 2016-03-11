@@ -8,7 +8,7 @@ import java.sql.Timestamp;
 /**
  * Private messages entity
  *
- * @author Denis Biyovskiy
+ * @author Oleh Levkovych
  * @version 1.00  15.07.2014.
  */
 @Entity

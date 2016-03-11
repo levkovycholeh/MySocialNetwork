@@ -20,7 +20,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Test for InterestsDao
  *
- * @author Matvii Mitnitskyi
+ * @author Oleh Levkovych
  *         version 1.00  21.07.2014
  */
 

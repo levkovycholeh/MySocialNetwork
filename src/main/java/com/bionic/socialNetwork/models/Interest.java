@@ -14,7 +14,7 @@ import java.util.Set;
 /**
  * Interests Entity
  *
- * @ author Matvii Mitnitskyi
+ * @ author Oleh Levkovych
  * @ version 1.00   16.08.2014
  */
 

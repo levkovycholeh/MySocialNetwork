@@ -14,7 +14,7 @@ import java.util.Date;
 
 
 /**
- * @author Dmytro Troshchuk, Denis Biyovskiy
+ * @author Oleh Levkovych, Oleh Levkovych Biyovskiy
  * @version 1.00  24.07.14.
  */
 public class UserLogic {

@@ -13,7 +13,7 @@ import java.io.InputStream;
 
 /**
  * rest for CreateGroup
- * @author Matvey Mitnitskyi
+ * @author Oleh Levkovych
  * @version 1.00 28.07.2014.
  */
 

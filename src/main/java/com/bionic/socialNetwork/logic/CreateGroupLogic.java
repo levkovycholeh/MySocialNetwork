@@ -17,7 +17,7 @@ import java.util.regex.Pattern;
 /**
  * CreateGroupLogic
  *
- * @author Matvey Mitnitskyi
+ * @author Oleh Levkovych
  * @version 1.01 31.07.14.
  */
 

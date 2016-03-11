@@ -9,7 +9,7 @@ import org.hibernate.service.ServiceRegistryBuilder;
 /**
  * Hibernate util. Create session factory
  *
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  14.07.14.
  */
 public class HibernateUtil {

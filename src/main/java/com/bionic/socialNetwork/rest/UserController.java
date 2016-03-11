@@ -22,7 +22,7 @@ import java.io.File;
 import java.io.InputStream;
 
 /**
- * @author Dmytro Troshchuk, Igor Kozhevnikov, Denis Biyovskiy
+ * @author Oleh Levkovych, Igor Kozhevnikov, Oleh Levkovych Biyovskiy
  * @version 1.00  18.07.14.
  */
 

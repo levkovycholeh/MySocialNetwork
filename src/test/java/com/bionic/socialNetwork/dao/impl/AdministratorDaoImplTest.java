@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * Test administrator's DAO
  *
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  16.07.14.
  */
 public class AdministratorDaoImplTest {

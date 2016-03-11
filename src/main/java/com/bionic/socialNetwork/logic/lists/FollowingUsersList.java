@@ -9,10 +9,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 
 import java.util.List;
 
-/**
- * @author Denis Biyovskiy
- * @version 1.00  23.07.2014.
- */
+
 public class FollowingUsersList {
     private List<User> followingUsers;
 

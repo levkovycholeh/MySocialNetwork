@@ -15,7 +15,7 @@ import com.bionic.socialNetwork.models.Post;
  * rest class for News
  *
  *
- * @ author Matvey Mitnitskyi
+ * @ author Oleh Levkovych
  * @ version 1.00  23.07.14
  */
 

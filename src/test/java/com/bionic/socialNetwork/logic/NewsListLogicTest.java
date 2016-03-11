@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * Test for NewsListLogic
  *
- * @ author  Matvey Mitnitskyi
+ * @ author  Oleh Levkovych
  * @ version 1.00  26.07.14.
  */
 public class NewsListLogicTest {

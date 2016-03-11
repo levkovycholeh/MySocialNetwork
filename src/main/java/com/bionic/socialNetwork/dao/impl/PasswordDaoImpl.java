@@ -5,10 +5,7 @@ import com.bionic.socialNetwork.models.Password;
 import com.bionic.socialNetwork.util.HibernateUtil;
 import org.hibernate.Session;
 
-/**
- * @author Dmytro Troshchuk
- * @version 1.00  15.07.14.
- */
+
 public class PasswordDaoImpl implements PasswordDao {
 
     @Override

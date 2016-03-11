@@ -11,12 +11,7 @@ import org.hibernate.criterion.Restrictions;
 
 import java.util.List;
 
-/**
- * Posts Dao implementation
- *
- * @author Denis Biyovskiy, Dmytro Troshchuk
- * @version 1.10  16.07.2014.
- */
+
 public class PostDaoImpl implements PostDao {
 
     @Override

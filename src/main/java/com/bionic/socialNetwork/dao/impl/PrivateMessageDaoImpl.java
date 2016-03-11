@@ -11,12 +11,7 @@ import org.hibernate.criterion.Restrictions;
 
 import java.util.List;
 
-/**
- * Private messages Dao implementation
- *
- * @author Denis Biyovskiy
- * @version 1.00  16.07.2014.
- */
+
 public class PrivateMessageDaoImpl implements PrivateMessageDao {
     @Override
     public PrivateMessage selectById(long msgId) throws Exception {

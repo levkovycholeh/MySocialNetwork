@@ -16,7 +16,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
 /**
- * @author Denis
+ * @author Oleh Levkovych
  * @version 1.00  18.07.2014.
  */
 public class SessionUserDaoImplTest {

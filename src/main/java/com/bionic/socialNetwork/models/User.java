@@ -13,7 +13,7 @@ import java.util.Set;
 /**
  * User's entity
  *
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  14.07.14.
  */
 @Entity

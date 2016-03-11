@@ -8,10 +8,7 @@ import org.hibernate.Session;
 
 import java.util.List;
 
-/**
- * @author Dmytro Troshchuk
- * @version 1.00  16.07.14.
- */
+
 public class BackOfficeAdminDaoImpl implements BackOfficeAdminDao {
 
     @Override

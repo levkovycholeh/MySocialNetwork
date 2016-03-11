@@ -9,9 +9,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 
 import java.util.List;
 
-/**
- * Created by Denis Biyovskiy on 31.07.2014.
- */
+
 public class UserGroupsListByName {
     private List<Group> groups;
     private long id;

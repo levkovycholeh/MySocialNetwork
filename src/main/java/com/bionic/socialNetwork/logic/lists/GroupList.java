@@ -10,10 +10,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * @author Dmytro Troshchuk
- * @version 1.00  01.08.14.
- */
+
 public class GroupList {
     private Collection<Group> groups;
 

@@ -12,10 +12,7 @@ import org.hibernate.criterion.Restrictions;
 
 import java.util.List;
 
-/**
- * @author yoalex5
- * @version 1.0 17.07.14
- */
+
 public class GroupDaoImpl implements GroupDao {
     @Override
     public Group selectById(long id) throws Exception {

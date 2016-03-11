@@ -12,10 +12,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 
 import java.util.List;
 
-/**
- * @author Dmytro Troshchuk
- * @version 1.00  25.07.14.
- */
+
 public class UserGroupsList {
     private List<Group> groups;
 

@@ -7,7 +7,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  01.08.14.
  */
 public class FollowingLogic {

@@ -14,7 +14,7 @@ import javax.ws.rs.core.MediaType;
 import java.io.InputStream;
 
 /**
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  04.08.14.
  */
 

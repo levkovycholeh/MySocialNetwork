@@ -8,10 +8,7 @@ import org.hibernate.Session;
 
 import java.util.List;
 
-/**
- * @author Denis
- * @version 1.00  18.07.2014.
- */
+
 public class SessionUserDaoImpl implements SessionUserDao {
     @Override
     public void insert(SessionUser sessionUser) throws Exception {

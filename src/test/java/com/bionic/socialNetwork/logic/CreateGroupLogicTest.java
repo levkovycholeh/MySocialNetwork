@@ -18,7 +18,7 @@ import static org.junit.Assert.*;
 
 /**
  * Test for CreateGroupLogic
- * @author Matvey Mitnitskyi
+ * @author Oleh Levkovych
  * @version 1.00 30.07.14.
  */
 

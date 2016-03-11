@@ -12,7 +12,7 @@ import java.sql.Timestamp;
 import java.util.Date;
 
 /**
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  25.07.14.
  */
 public class PrivateMessageLogic {

@@ -17,7 +17,7 @@ import javax.ws.rs.core.Response;
 import java.io.InputStream;
 
 /**
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  14.07.14.
  */
 @Path("index")

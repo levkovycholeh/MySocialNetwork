@@ -4,10 +4,7 @@ import com.bionic.socialNetwork.models.Group;
 
 import java.util.List;
 
-/**
- * @author yoalex5
- * @version 1.0 17.07.14
- */
+
 public interface GroupDao {
     public Group selectById(long id) throws Exception;
 

@@ -4,7 +4,7 @@ package com.bionic.socialNetwork.models;
 import javax.persistence.*;
 
 /**
- * @author Dmytro Troshchuk
+ * @author Oleh Levkovych
  * @version 1.00  16.07.14.
  */
 @Entity

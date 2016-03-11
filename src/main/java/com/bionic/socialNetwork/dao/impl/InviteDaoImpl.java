@@ -8,10 +8,7 @@ import org.hibernate.Session;
 
 import java.util.List;
 
-/**
- * @author Denis
- * @version 1.0 18.07.14
- */
+
 public class InviteDaoImpl implements InviteDao {
     @Override
     public void insert(Invite invite) throws Exception {
